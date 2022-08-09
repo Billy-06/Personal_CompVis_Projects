@@ -1,0 +1,8 @@
+venv
+*.pyc
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*.epub
+*.ini
+Camera_Roll
+.yml
